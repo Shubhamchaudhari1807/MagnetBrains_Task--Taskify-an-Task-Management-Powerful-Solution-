@@ -88,4 +88,12 @@ It was developed as part of the MagnetBrains Task for front-end + back-end integ
 .gitignore  
 
 README.md  
+
+
+Contact
+
+Created by Shubham Chaudhari – final-year B.Tech Computer Engineering student from RCPIT Shirpur.
+Feel free to reach out on GitHub if you have any questions or suggestions.
+
+
   
