@@ -35,10 +35,10 @@ It was developed as part of the MagnetBrains Task for front-end + back-end integ
 
 ### Installation  
 1. Clone the repository:  
-   ```bash  
+   ```
    git clone https://github.com/Shubhamchaudhari1807/MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-.git  
 
-  ```
+   ```
 
      cd MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-  
   
