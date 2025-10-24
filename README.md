@@ -56,4 +56,36 @@ It was developed as part of the MagnetBrains Task for front-end + back-end integ
     cd ../client  
     npm install  
     npm run start   # opens the app in browser  
+
+
+    Folder Structure
+    
+/client/           # Frontend application  
+
+  ├─ public/
+  
+  ├─ src/
+  
+   ├─ components/
+      
+   ├─ pages/
+   
+   └─ styles/  
+
+
+/server/           # Backend API
+
+  ├─ controllers/
+  
+  ├─ models/
+  
+  ├─ routes/
+  
+  ├─ middleware/  
+  
+  └─ config/  
+  
+.gitignore  
+
+README.md  
   
