@@ -38,6 +38,8 @@ It was developed as part of the MagnetBrains Task for front-end + back-end integ
    ```bash  
    git clone https://github.com/Shubhamchaudhari1807/MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-.git  
 
-    cd MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-  
+  ```
+
+     cd MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-  
   
   
