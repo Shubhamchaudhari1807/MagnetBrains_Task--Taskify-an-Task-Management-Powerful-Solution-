@@ -39,7 +39,21 @@ It was developed as part of the MagnetBrains Task for front-end + back-end integ
    git clone https://github.com/Shubhamchaudhari1807/MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-.git  
 
    ```
-
+   ```
      cd MagnetBrains_Task--Taskify-an-Task-Management-Powerful-Solution-  
-  
+   ```
+2.  Setup backend:
+
+    cd server  
+    npm install  
+
+    # create a .env file based on .env.example  
+    npm run dev   # or `npm start` for production mode  
+
+
+3.  Setup frontend:
+
+    cd ../client  
+    npm install  
+    npm run start   # opens the app in browser  
   
